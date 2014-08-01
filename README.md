@@ -1,4 +1,0 @@
-SkyNext
-=======
-
-Code for SkyNext
